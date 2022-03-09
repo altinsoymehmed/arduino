@@ -1,1 +1,1 @@
-# ESP32 / Arduino  ve ESP32/micropython eğitim videoları.
+# ESP32 / Arduino  ,ESP32/Micropython , Mblock eğitim videoları.
